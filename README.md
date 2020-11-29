@@ -1,5 +1,5 @@
 # GOVUK Design System Flow Diagrams for Miro
-A [Miro](https://miro.com) version of a popular [GOVUK Design System](https://gov.uk/design-system) based flow diagram developed by the GOVDESIGN community.
+A [Miro version](248817) of a popular [GOVUK Design System](https://gov.uk/design-system) based flow diagram developed by the GOVDESIGN community.
 
 ![GitHub Logo](preview.png)
 
