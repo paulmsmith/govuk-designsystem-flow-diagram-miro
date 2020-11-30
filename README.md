@@ -1,7 +1,7 @@
 # GOVUK Design System Flow Diagrams for Miro
 A [Miro version](https://miro.com/app/board/o9J_ldS3wF8=/) of a popular [GOVUK Design System](https://gov.uk/design-system) based flow diagram developed by the GOVDESIGN community.
 
-![GitHub Logo](preview.png)
+![Preview screenshot of the miro file](preview.png)
 
 ## How to use this file
 
@@ -14,4 +14,14 @@ A [Miro version](https://miro.com/app/board/o9J_ldS3wF8=/) of a popular [GOVUK D
 
 Use this file in Miro to create flow diagrams of GOV.UK services or Unbranded services that are based on the GOVUK Design System.
 
-Credit to Dave House who's [Sketch version](https://github.com/dashouse/govuk-design-system-flow-diagrams) inspired this Miro version.
+## Example usage
+
+![Example screenshot of the miro file in use, showing a flow diagram](example.jpg)
+
+## See version in Miro
+
+[View this file in Miro](https://miro.com/app/board/o9J_ldS3wF8=/)
+
+## Credit
+
+Credit to Dave House who's [Sketch version](https://github.com/dashouse/govuk-design-system-flow-diagrams) inspired this Miro version and all the other contributors to the GOVUK Design System.
