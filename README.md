@@ -3,7 +3,9 @@ A [Miro version](https://miro.com/app/board/o9J_ldS3wF8=/) of a popular [GOVUK D
 
 ![Preview screenshot of the miro file](preview.png)
 
-## How to use this file
+## If you have a paid Miro account
+
+### Instructions to download a copy to add to your Miro account
 
 1. In this repository download the file '[GOVUK Flow Diagram Components.rtb](GOVUK%20Flow%20Diagram%20Components.rtb)'. 
 2. Go to your Miro account.
@@ -13,6 +15,22 @@ A [Miro version](https://miro.com/app/board/o9J_ldS3wF8=/) of a popular [GOVUK D
 6. Done! A new Miro board based on this file will be created.
 
 Use this file in Miro to create flow diagrams of GOV.UK services or Unbranded services that are based on the GOVUK Design System.
+
+## If you use a free Miro account
+
+### Instructions to copy to your own Miro board
+
+1. Create a new Miro board or open an existing one that you would like to add these flow diagram components to
+2. In a new tab or window go to the publically accessible version of the [GOVUK Design System Flow Diagram for Miro](https://miro.com/app/board/o9J_ldS3wF8=/)
+3. Find the following frame:
+
+![The frame to copy from](frame-example.png)
+
+4. Highlight and copy the flow components
+5. Press CMD/CTRL + C
+6. Switch back to your Miro in the other window or tab
+7. Paste the components into your board
+8. Done!
 
 ## Example usage
 
