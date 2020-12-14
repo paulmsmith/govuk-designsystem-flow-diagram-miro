@@ -26,10 +26,10 @@ Use this file in Miro to create flow diagrams of GOV.UK services or Unbranded se
 
 ![The frame to copy from](frame-example.png)
 
-4. Highlight and copy the flow components
-5. Press CMD/CTRL + C
+4. Select all the flow components (CMD/CTRL + A)
+5. Copy them to your clipboard (Press CMD/CTRL + C)
 6. Switch back to your Miro in the other window or tab
-7. Paste the components into your board
+7. Paste the components into your board (CMD/CTRL + V)
 8. Done!
 
 ## Example usage
