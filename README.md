@@ -9,7 +9,7 @@ A [Miro version](https://miro.com/app/board/o9J_ldS3wF8=/) of a popular [GOVUK D
 
 1. Create a new Miro board or open an existing one that you would like to add these flow diagram components to
 2. In a new tab or window go to the publically accessible version of the [GOVUK Design System Flow Diagram for Miro](https://miro.com/app/board/o9J_ldS3wF8=/)
-3. Find the following frame:
+3. Find the following frames:
 
 ![The frame to copy from](frame-example.png)
 
