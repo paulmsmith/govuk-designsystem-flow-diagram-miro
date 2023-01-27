@@ -1,3 +1,9 @@
+## **Note - 27th Jan 2023** 
+
+There is currently an issue with the [public Miro board](https://miro.com/app/board/o9J_ldS3wF8=/) preventing people from copying the assets. I'm working on a solution.
+
+---
+
 # GOVUK Design System Flow Diagrams for Miro
 A [Miro version](https://miro.com/app/board/o9J_ldS3wF8=/) of a popular [GOVUK Design System](https://gov.uk/design-system) based flow diagram developed by the GOVDESIGN community.
 
