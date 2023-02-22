@@ -1,3 +1,7 @@
+## **Note - 22nd Feb 2023**
+
+Do you have a paid Miro account? Are able to host a version of this resource for the community? Please get in touch: paul.m.smith@levellingup.gov.uk
+
 ## **Note - 27th Jan 2023** 
 
 There is currently an issue with the [public Miro board](https://miro.com/app/board/o9J_ldS3wF8=/) preventing people from copying the assets. I'm working on a solution.
