@@ -1,3 +1,7 @@
+## **Note - 03rd Mar 2023**
+
+Thank you to all the community for offers of help and support to host this Miro resource. Miro now has a community site called the 'Miroverse'. I have submitted the board to be provided there as a template. As soon as it is available I will update this repository with the link and details of how to use it.
+
 ## **Note - 22nd Feb 2023**
 
 Do you have a paid Miro account? Are able to host a version of this resource for the community? Please get in touch: paul.m.smith@levellingup.gov.uk
@@ -18,7 +22,7 @@ A [Miro version](https://miro.com/app/board/o9J_ldS3wF8=/) of a popular [GOVUK D
 ### Instructions to copy to your own Miro board
 
 1. Create a new Miro board or open an existing one that you would like to add these flow diagram components to
-2. In a new tab or window go to the publically accessible version of the [GOVUK Design System Flow Diagram for Miro](https://miro.com/app/board/o9J_ldS3wF8=/)
+2. In a new tab or window go to the publically accessible version of the [GOVUK Design System Flow Diagram for Miro](https://miro.com/app/board/uXjVPhE0c-k=/?fromEmbed=1)
 3. Find the following frames:
 
 ![The frame to copy from](frame-example.png)
@@ -48,7 +52,7 @@ Use this file in Miro to create flow diagrams of GOV.UK services or Unbranded se
 
 ## See version in Miro
 
-[View this file in Miro](https://miro.com/app/board/o9J_ldS3wF8=/)
+[View this file in Miro](https://miro.com/app/board/uXjVPhE0c-k=/?fromEmbed=1)
 
 ## Credit
 
