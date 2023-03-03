@@ -1,6 +1,6 @@
 ## **Note - 03rd Mar 2023**
 
-Thank you to all the community for offers of help and support to host this Miro resource. Miro now has a community site called the 'Miroverse'. I have submitted the board to be provided there as a template. As soon as it is available I will update this repository with the link and details of how to use it.
+Thank you to all the community for offers of help and support to host this Miro resource. Miro now has a community site called the '[Miroverse](https://miro.com/miroverse/)'. I have submitted the board to be provided there as a template. As soon as it is available I will update this repository with the link and details of how to use it.
 
 ## **Note - 22nd Feb 2023**
 
