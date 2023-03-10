@@ -1,15 +1,19 @@
 # GOVUK Design System Flow Diagrams for Miro
 A Miro version of a popular GOVUK Design System based flow diagram developed by the GOVDESIGN community.
 
-![Preview screenshot of the miro file](preview.png)
-
-Since the original release of this template, Miro now have a dedicated template library called '[The Miroverse](https://miro.com/miroverse/)' so I have added this resource to there for you to create your own copy.
+![](https://i.imgur.com/TtE08W6.png)
 
 ## How to get your copy of this Miro board
 
 1. Sign into your Miro account
 2. Go to the Miroverse template to [Create your copy of the GOVUK Flow Diagram for Miro template](https://miro.com/miroverse/flow-diagrams/)
 3. Click on the 'use template' button **or** click the arrow to 'add to an existing board' and choose the board you wish to add the elements too.
+
+![](https://i.imgur.com/TtE08W6.png)
+
+![Preview screenshot of the miro file](preview.png)
+
+Since the original release of this template, Miro now have a dedicated template library called '[The Miroverse](https://miro.com/miroverse/)' so I have added this resource to there for you to create your own copy.
 
 ## Example usage
 
